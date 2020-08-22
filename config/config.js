@@ -1,10 +1,9 @@
-/* Magic Mirror Config Sample
+/* TouchScreen Config Sample
  *
- * By Michael Teeuw http://michaelteeuw.nl
+ * By Brian Svean
  * MIT Licensed.
  *
  * For more information on how you can configure this file
- * See https://github.com/MichMich/MagicMirror#configuration
  *
  */
 
