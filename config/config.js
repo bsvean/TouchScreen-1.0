@@ -42,6 +42,7 @@ var config = {
 			position: "top_bar",
 			config: {}
 		},
+		/*
 		{
 			module: "MMM-weatherforecast",
 			position: "top_bar",
@@ -53,9 +54,10 @@ var config = {
 				units: "imperial"
 				}
 		},
+		*/
 		{
   				module: "MMM-SmartTouch",
-  				position: "bottom_center",
+  				position: "top_bar",
   				config: {}	
  		},
 		]
