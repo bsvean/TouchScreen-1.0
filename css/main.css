@@ -13,7 +13,8 @@ body {
   position: absolute;
   height: calc(100% + 100px);
   width: calc(100% + 120px);
-  background: no-repeat center/80% url("../Honda_Background.jpg");
+  background-image: url("../Honda_Background.jpg");
+  background: #cccccc;
   color: #aaa;
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
