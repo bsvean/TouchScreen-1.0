@@ -59,7 +59,7 @@ var config = {
   				module: "MMM-SmartTouch",
   				position: "bottom_bar",
   				config: {}	
- 		},
+ 		}
 		]
 };
 /*************** DO NOT EDIT THE LINE BELOW ***************/
