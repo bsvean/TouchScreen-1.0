@@ -96,7 +96,7 @@
   transition: visibility 0s 1s, opacity 1s linear;
 }
 
-.hideUI. show {
+.hideUI.show {
   visibility: visible;
   opacity: 1;
   transition: visibility 0s 0s, opacity 1s linear;
