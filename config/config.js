@@ -57,7 +57,7 @@ var config = {
 		*/
 		{
   				module: "MMM-SmartTouch",
-  				position: "bottom_bar",
+  				position: "bottom_center",
   				config: {}	
  		}
 		]
